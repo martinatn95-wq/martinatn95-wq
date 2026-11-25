@@ -1,40 +1,63 @@
-<h1 align="center">Hola, soy Martin Toledo 👋</h1>
+<h1 align="center">Martín Alejandro Toledo Nieto</h1>
 
 <p align="center">
-  <img src="banner.svg" alt="Banner de Martin Toledo" width="100%">
+  <img src="banner.svg" alt="Banner del portafolio de Martín Toledo" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/martinatn95-wq?style=social" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/martinatn95-wq?style=social" alt="Estrellas">
+  <strong>Data Analyst Jr. | Python · SQL · pandas · Tableau</strong><br>
+  Analítica de datos, visualización e indicadores de negocio · México
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-toledo-da-cpt/">LinkedIn</a> ·
+  <a href="mailto:martin.atn95@gmail.com">Correo</a>
 </p>
 
 ## Sobre mí
 
-- 📊 Analista de datos 
-- 🐍 Python, pandas y estadística aplicada Jr.
-- 📈 Me interesa la visualización de datos y el análisis exploratorio
-- 🎯 Busco crear proyectos que resuelvan problemas reales
--  piloto comercial
--  amante de las fianzas 
+Soy analista de datos en formación en **TripleTen**, con experiencia previa en operaciones, manufactura y gestión comercial, además de formación como **Piloto Aviador Comercial**. Me interesa aplicar el análisis de datos a **operaciones, aviación, finanzas y negocios**.
 
-## Tecnologías
+Trabajo con Python, pandas, SQL, Excel y Tableau para explorar conjuntos de datos, identificar problemas de calidad, crear indicadores y comunicar hallazgos.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+## Proyectos destacados
 
-## Estadísticas de GitHub
+### 📊 ConnectaTel — Segmentación y calidad de datos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinatn95-wq&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinatn95-wq&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="170">
-</p>
+**Python · pandas · Seaborn · Matplotlib · IQR**
+
+- Análisis de usuarios, planes, mensajes y llamadas de una empresa de telecomunicaciones simulada.
+- Identificación de **40 edades inválidas** y **40 fechas inconsistentes**, ambas equivalentes al 1 % del conjunto de usuarios.
+- Agregación de actividad por usuario, identificación de outliers y segmentación con recomendaciones exploratorias.
+
+**[Ver proyecto, metodología y notebook](https://github.com/martinatn95-wq/conectatel-analysis)**
+
+### 🏙️ Movilidad urbana y economía — 2024
+
+**Python · pandas · Matplotlib · EDA**
+
+- Integración de fuentes de congestión de tráfico e indicadores económicos por ciudad.
+- Limpieza, agrupación por ciudad y año y visualización de métricas urbanas.
+- Exploración de la relación entre congestión y PIB per cápita, sin inferir causalidad.
+
+**[Ver proyecto, metodología y notebook](https://github.com/martinatn95-wq/analysis-everpeak)**
+
+## Herramientas
+
+**Análisis:** Python, SQL, pandas, NumPy, Excel  
+**Visualización:** Tableau, Matplotlib, Seaborn  
+**Métodos:** EDA, limpieza de datos, estadística descriptiva, segmentación, indicadores de negocio  
+**Trabajo técnico:** Jupyter Notebook, GitHub
+
+## Formación y objetivos
+
+- Formación técnica en Data Analytics — TripleTen.
+- Piloto Aviador Comercial; experiencia relacionada con operaciones.
+- Interés en oportunidades de **Data Analyst Jr.** y **BI Analyst Jr.** en aviación, tecnología, e-commerce y finanzas.
+
+> Los proyectos de este perfil son ejercicios académicos. Cada repositorio explica sus fuentes de datos, limitaciones y evidencia técnica. Los datasets del curso no están publicados, por lo que la ejecución completa requiere los archivos de entrada.
 
 ## Contacto
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/martin-toledo-da-cpt/)
-- ✉️ Correo: martin.atn95@gmail.com
+- **LinkedIn:** [linkedin.com/in/martin-toledo-da-cpt](https://www.linkedin.com/in/martin-toledo-da-cpt/)
+- **Email:** [martin.atn95@gmail.com](mailto:martin.atn95@gmail.com)
